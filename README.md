@@ -1,4 +1,4 @@
-Trabajos realizados de la materia Estructura de Datos
+Trabajos realizados de la materia Estructura de Datos.
 Estructuras realizadas:
 -Pila
 -Cola
